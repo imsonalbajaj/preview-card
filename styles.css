@@ -1,0 +1,43 @@
+body{
+    background-color: hsl(233, 47%, 7%);
+    color: whitesmoke;
+    font-family: 'Lexend Deca', sans-serif;
+    font-size: 15px;
+}
+
+p{
+    font-family: 'Inter', sans-serif;
+}
+
+
+.botm{
+    display: inline-block;
+    margin: 20px;
+}
+.content{
+    
+    height: 370px;
+    width: 370px;
+    display: inline-block;
+    text-align: center;
+    
+}
+
+.image{
+    height: 370px;
+    width: 370px;
+
+    float: right;
+    border-radius: 0 10px 10px 0;
+}
+
+
+
+.maindiv{
+    text-align: center;
+    position: relative;
+    margin: 100px auto 100px;
+    background-color: hsl(244, 38%, 16%);
+    width: 70%;
+    border-radius: 10px;
+}
